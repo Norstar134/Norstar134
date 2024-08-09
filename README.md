@@ -15,7 +15,7 @@ From mobile applications, OOP to AI using Python, I have a lot of skills to show
 - Next.js
 - Machine learning
 
-##Currently Working On 🖥
+##Currently Working On
 My portfolio website, which is public on my profile, and multiple other side projects!
 
 
