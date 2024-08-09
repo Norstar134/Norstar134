@@ -3,7 +3,7 @@
 I'm a Full Stack Developer and am currently working on both personal projects and a project for a game studio called Wee Tattie. I have a BSc in Computing and IT (Software) where I have even more skill than what's shown on my github.
 From mobile applications, OOP to AI using Python, I have a lot of skills to show off. I have always wanted to code since I was 11 but my current aim is to create websites that are responsive and unique by experimenting and learning how others do it.
 
-##Skills 📌
+## Skills 📌
 - HTML
 - CSS
 - Javascript
@@ -15,7 +15,8 @@ From mobile applications, OOP to AI using Python, I have a lot of skills to show
 - Next.js
 - Machine learning
 
-##Currently Working On
+## Currently Working On
+
 My portfolio website, which is public on my profile, and multiple other side projects!
 
 
