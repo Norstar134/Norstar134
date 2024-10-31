@@ -17,7 +17,7 @@ From mobile applications, OOP to AI using Python, I have a lot of skills to show
 
 ## Currently Working On
 
-My portfolio website, which is public on my profile, and multiple other side projects!
+My portfolio website, which is public on my profile, and a data engineering bootcamp for 12 weeks!
 
 
 <!--
